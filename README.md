@@ -15,7 +15,6 @@ A WebRTC-based platform for real-time video/audio communication, designed for se
 ## Prerequisites
 
 - Node.js (v16 or higher)
-- MongoDB
 - SSL certificates (for HTTPS)
 
 ## Setup
@@ -54,7 +53,6 @@ node server/server.js
 - Backend:
   - Node.js
   - Express
-  - MongoDB
   - Socket.IO
 
 ## Architecture
