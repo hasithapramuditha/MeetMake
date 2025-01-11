@@ -38,7 +38,7 @@ openssl req -x509 -newkey rsa:2048 -keyout key.pem -out cert.pem -days 365 -node
 
 4. Start the development servers:
 ```bash
-npm start
+node server/server.js
 ```
 
 5. Access the application:
